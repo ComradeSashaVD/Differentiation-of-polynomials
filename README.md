@@ -1,5 +1,6 @@
 # Differentiation-of-polynomials
  RUSSIAN 
+ 
 Напишите символическую функцию diff
 
 Пример:
